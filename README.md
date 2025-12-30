@@ -1,6 +1,6 @@
 # Clibs (Short for C-libraries)
 
-Clibs (or C-libraries) is a collection of C libraries that handle basic tasks such has **math, regex, hashing, sorting, etc.** Clibs currently still in **development** so changes and new libraries will occur.
+Clibs (or C-libraries) is a collection of C libraries that handle basic tasks such has **math, regex, hashing, sorting, etc.** Clibs is currently still in **development** so changes and new libraries will occur.
 
 ## How to build
 
